@@ -31,7 +31,7 @@ def main():
     """
 
     # Create opencv video capture object
-    cap = cv2.VideoCapture('C:\Users\Hanshen\Desktop\CV2\kalman_filter_multi_object_tracking-master\data\RAW_ Moment van mows down pedestrians in Barcelona caught on camera (DISTURBING FOOTAGE).mp4')
+    cap = cv2.VideoCapture('C:\Users\user\Documents\Iot-Tracking\CV2\kalman_filter_multi_object_tracking-master\data\RAW_ Moment van mows down pedestrians in Barcelona caught on camera (DISTURBING FOOTAGE).mp4')
     #cap = cv2.VideoCapture(0)
     
 
